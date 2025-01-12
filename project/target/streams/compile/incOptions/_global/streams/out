@@ -1,0 +1,5 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Gigik\Documents\M1-APP 2024-2025 FERROL Nelgie\S7\Programmation Scala\APIGenerator\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Gigik\Documents\M1-APP 2024-2025 FERROL Nelgie\S7\Programmation Scala\APIGenerator\project\target\scala-2.12\sbt-1.0\classes.bak
+[debug] Removing the temporary directory used for backing up class files: C:\Users\Gigik\Documents\M1-APP 2024-2025 FERROL Nelgie\S7\Programmation Scala\APIGenerator\project\target\scala-2.12\sbt-1.0\classes.bak
